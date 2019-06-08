@@ -1,0 +1,7 @@
+E:\Repositorio\tp-nro8-Mario1294\Tp_8\Tp_8\bin\Debug\Tp_8.exe.config
+E:\Repositorio\tp-nro8-Mario1294\Tp_8\Tp_8\bin\Debug\Tp_8.exe
+E:\Repositorio\tp-nro8-Mario1294\Tp_8\Tp_8\bin\Debug\Tp_8.pdb
+E:\Repositorio\tp-nro8-Mario1294\Tp_8\Tp_8\obj\Debug\Tp_8.exe
+E:\Repositorio\tp-nro8-Mario1294\Tp_8\Tp_8\obj\Debug\Tp_8.pdb
+E:\Repositorio\tp-nro8-Mario1294\Tp_8\Tp_8\obj\Debug\Tp_8.csprojAssemblyReference.cache
+E:\Repositorio\tp-nro8-Mario1294\Tp_8\Tp_8\obj\Debug\Tp_8.csproj.CoreCompileInputs.cache
